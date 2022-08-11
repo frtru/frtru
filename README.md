@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="mailto:ftrudel.yul@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-ftrudel.yul@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
+  </a>
   
 </p>
