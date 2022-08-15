@@ -3,11 +3,7 @@
 </h1>
 
 <p align='center'>
-  Passionate about game dev, ML/AI, back-end dev, performance, designs & automation
-</p>
-
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=frtru&show_icons=true&count_private=true&theme=tokyonight" width="350"></a>
+  Game dev, ML/AI, back-end dev, performance, designs & automation
 </p>
 
 <p align='center'>
