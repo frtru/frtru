@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  Game dev, ML/AI, back-end dev, performance, designs & automation
+  Game dev | ML/AI | Distributed Systems | Backend | Performance | Designs & automation
 </p>
 
 <p align='center'>
